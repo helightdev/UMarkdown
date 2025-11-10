@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>ColorCode.Core</id>
+    <version>2.0.15</version>
+    <title>ColorCode-Universal</title>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/CommunityToolkit/ColorCode-Universal</projectUrl>
+    <description>The Core Library, containing the Parser, and the classes to create your own formatter.</description>
+    <copyright>(c) .NET Foundation and Contributors. All rights reserved.</copyright>
+    <tags>ColorCode Syntax Highlighting SyntaxHighlighting Formatting</tags>
+    <repository type="git" url="https://github.com/CommunityToolkit/ColorCode-Universal" commit="e6c2701c365a7a91d74d7ef38a6b60075008ce94" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.4">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>

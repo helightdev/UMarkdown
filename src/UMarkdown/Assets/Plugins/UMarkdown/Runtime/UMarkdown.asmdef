@@ -1,0 +1,17 @@
+{
+  "name": "UMarkdown",
+  "rootNamespace": "UMarkdown",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "ColorCode.Core.dll",
+    "Markdig.dll"
+  ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
