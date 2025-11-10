@@ -19,7 +19,7 @@ project:
 ```json
 {
   "dependencies": {
-    "com.helight.umarkdown": "https://github.com/helightdev/UMarkdown.git?path=src/UMarkdown/Assets/Plugins/UMarkdown"
+    "dev.helight.umarkdown": "https://github.com/helightdev/UMarkdown.git?path=src/UMarkdown/Assets/Plugins/UMarkdown"
   }
 }
 ```
