@@ -1,5 +1,6 @@
 <h1 align="left">
     UMarkdown
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/helightdev/UMarkdown">
     <a href="https://umarkdown.helight.dev/">
         <img src="https://img.shields.io/badge/docs-umarkdown.helight.dev-007ec6.svg" alt="Docs">
     </a>
