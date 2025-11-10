@@ -1,4 +1,9 @@
-# UMarkdown
+<h1 align="left">
+    UMarkdown
+    <a href="https://umarkdown.helight.dev/">
+        <img src="https://img.shields.io/badge/docs-umarkdown.helight.dev-007ec6.svg" alt="Docs">
+    </a>
+</h1>
 
 UMarkdown is a utility library for parsing and converting Markdown text
 into Unity compatible rich text and UI elements.
@@ -23,6 +28,14 @@ project:
   }
 }
 ```
+
+## Usage
+
+The MarkdownVisualElement(visible as MarkdownText in UXML) can be used to render Markdown content
+directly in Unity UI Toolkit. Alternatively, you can programmatically convert Markdown text
+into Unity rich text strings and VisualElements using the methods provided by `UnityMarkdown`.
+
+For more details on both, please refer to the [usage documentation](https://umarkdown.helight.dev/usage/).
 
 ## License
 
