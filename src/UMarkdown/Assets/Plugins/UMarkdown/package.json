@@ -7,7 +7,7 @@
   },
   "version": "0.0.1",
   "unity": "6000.0",
-  "description": "Provides an efficient async/await integration to Unity.",
+  "description": "A utility library for parsing and converting Markdown text into Unity compatible rich text and UI elements.",
   "keywords": [
     "Markdown",
     "RichText"
