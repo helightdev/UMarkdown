@@ -1,6 +1,7 @@
 <h1 align="left">
     UMarkdown
     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/helightdev/UMarkdown">
+    <img alt="Unity Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhelightdev%2FHELIX%2Frefs%2Fheads%2Fmaster%2Fsrc%2FHELIX%2FAssets%2FPlugins%2FHELIX%2Fpackage.json&query=unity&label=Unity&color=dark-green">
     <a href="https://umarkdown.helight.dev/">
         <img src="https://img.shields.io/badge/docs-umarkdown.helight.dev-007ec6.svg" alt="Docs">
     </a>
